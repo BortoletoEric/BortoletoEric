@@ -2,7 +2,7 @@
 - 👀 Como um amante de técnologia, trabalho e estudo com ela todos os dias.
 - 💞️ Atualmente estou estágiando na Gertec como Desenvolvedor de Customizações para terminais de pagamento (programo em Kotlin, Flutter e principalmente Java).
 - 💻 Sou técnico em Desenvolvimento de Sistemas pela Etec de Vila Formosa. (3/3) 
-- 🌱 Estou cursando bacharelado em Engenharia de Software.
+- 🌱 Estou cursando bacharelado em Engenharia de Software pela Universidade São Judas Tadeu (4/8).
 - ⚡ Fun fact: nas horas vagas treino futebol freestyle (sou o 5° melhor do Brasil, entre os melhores do mundo)
 
 <!---
