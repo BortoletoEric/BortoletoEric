@@ -1,6 +1,6 @@
 - 👋 E aí, eu sou @BortoletoEric
 - 👀 Desenvolvedor Java e Kotlin para Android e/ou BackEnd.
-- 🤝 [@Projetoacbr]([https://vercel.com](https://github.com/projetoacbr))
+- 🤝 [@Projetoacbr]((https://github.com/projetoacbr))
 - 🌱 Estou cursando bacharelado em Engenharia de Software pela Universidade São Judas Tadeu. (4/8)
 - 💻 Sou técnico em Desenvolvimento de Sistemas pela Etec de Vila Formosa. (3/3) 
 - 💞️ Recentemente encerrei meu estágio na Gertec onde atuei como desenvolvedor Android (Smart POS).
