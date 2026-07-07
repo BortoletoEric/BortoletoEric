@@ -1,5 +1,5 @@
 - 👋 E aí, eu sou @BortoletoEric
-- 👀 Desenvolvedor Java e Kotlin para Android e/ou BackEnd no Projeto ACBr.
+- 👀 Desenvolvedor Android e/ou BackEnd.
 - 💳 Experiência em Integrações para Smart POS.
 - 🗣️ Atuação prestando Suporte Técnico desde casos básicos a suporte a outros desenvolvedores no meio de pagamentos.
 - [![Visite](https://img.shields.io/badge/visite-projetoacbr-blue?style=for-the-badge&logo=google-chrome)](https://projetoacbr.com.br) 🤝
