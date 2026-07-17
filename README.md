@@ -86,6 +86,6 @@ Always looking for new challenges and opportunities to build scalable and effici
 - AWS
 - Advanced Security with Spring Security
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_weighted.png)
 
 </div>
