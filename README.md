@@ -1,13 +1,89 @@
-- 👋 E aí, eu sou @BortoletoEric
-- 👀 Desenvolvedor Android e/ou BackEnd.
-- 💳 Experiência em Integrações para Smart POS.
-- 🗣️ Atuação prestando Suporte Técnico desde casos básicos a suporte a outros desenvolvedores no meio de pagamentos.
-- [![Visite](https://img.shields.io/badge/meu-linkedin-blue?style=for-the-badge&logo=google-chrome)]([https://projetoacbr.com.br](https://www.linkedin.com/in/eric-bortoleto))
-- 🌱 Estou cursando bacharelado em Engenharia de Software pela Universidade São Judas Tadeu. (7/8)
-- 💻 Sou técnico em Desenvolvimento de Sistemas pela Etec de Vila Formosa. (concluido)
-- ⚡ Fun fact: sou atleta profissional de futebol freestyle
+<div align="center">
 
-<!---
-BortoletoEric/BortoletoEric é um repositório especial pq é um "readme.md", um arquivo que aqui no GitHub aparece em seu na página principal de seu perfil.
-Para fins didaticos você pode editar esse arquivo e clicar em "Previw" para dar uma olhada em suas alterações.
---->
+# Hi there, I'm Eric Bortoleto 👋
+
+### Android Developer | Software Engineering Student
+
+Sou um Engenheiro de Sofyware brasileiro. <br>
+I'm a Software Engineering student from Brazil.
+
+Eu tenho experiencia profissional desenvolvendo aplicações para Android nativo **Java** and **Kotlin**, prestando suporte técnico a outros desenvolvedores, integrando soluções de pagamento Smart POS/TEF e dando manutenção a bibliotecas Android. <br>
+I have professional experience developing native Android applications with **Java** and **Kotlin**, providing technical support for developers, integrating payment solutions (Smart POS/TEF), and maintaining Android libraries.
+
+Atualmente estou expandindo meus conhecimentos com **Spring Boot, estudando **JPA, APIs REST, JWT, OAuth2, Docker e AWS**, ao mesmo tempo que me mantenho desenvolvendo meus conhecimentos no mundo Android com **Jetpack Compose, **MVVM** e arquiteturas modernas. <br>
+Currently, I'm expanding my backend skills through **Spring Boot**, studying **JPA, REST APIs, JWT, OAuth2, Docker, and AWS**, while continuously improving my Android development knowledge with **Jetpack Compose**, **MVVM**, and modern architecture.
+
+Estou em busca de novos desafios e oportunidades de construir aplicações eficientes e escalaveis. <br>
+Always looking for new challenges and opportunities to build scalable and efficient applications.
+
+---
+
+## 🚀 Stack
+
+### Mobile
+
+![Android](https://img.shields.io/badge/Android-222222?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Kotlin](https://img.shields.io/badge/Kotlin-222222?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-222222?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-222222?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST-222222?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-222222?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-222222?style=for-the-badge&logo=jsonwebtokens)
+![OAuth2](https://img.shields.io/badge/OAuth2-222222?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+### Database
+
+![SQLite](https://img.shields.io/badge/SQLite-222222?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Room](https://img.shields.io/badge/Room-222222?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-222222?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-222222?style=for-the-badge&logo=intellijidea)
+![Jenkins](https://img.shields.io/badge/Jenkins-222222?style=for-the-badge&logo=jenkins&logoColor=D24939)
+
+---
+
+## 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eric-bortoleto)
+
+[![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github)](https://github.com/bortoletoeric)
+
+---
+
+## 💼 Professional Experience
+
+📱 **Android Developer**
+- Native Android (Java & Kotlin)
+- Jetpack Compose, Room, Retrofit, Coroutines
+- Smart POS Integrations
+- Technical Support for Developers
+
+☕ **Backend**
+- Spring Boot
+- REST APIs
+- Maven Library publishes
+- Library abstraction
+- Pascal Library port to Android
+
+---
+
+## 📚 Currently Learning
+
+- Spring Boot Expert
+- Clean Architecture
+- Microservices
+- Docker
+- AWS
+- Advanced Security with Spring Security
+
+</div>
