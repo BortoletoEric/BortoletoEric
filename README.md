@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Eric Bortoleto 👋
+# E aí, sou Eric Bortoleto 👋
 
 ### Android Developer | Software Engineering Student
 
@@ -52,7 +52,7 @@ Always looking for new challenges and opportunities to build scalable and effici
 
 ---
 
-## 🌎 Connect with Me
+## 🌎 Se conecte comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eric-bortoleto)
 
@@ -60,7 +60,7 @@ Always looking for new challenges and opportunities to build scalable and effici
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experiencia Profissional
 
 📱 **Android Developer**
 - Native Android (Java & Kotlin)
@@ -77,7 +77,7 @@ Always looking for new challenges and opportunities to build scalable and effici
 
 ---
 
-## 📚 Currently Learning
+## 📚 Atualmente aprendendo
 
 - Spring Boot Expert
 - Clean Architecture
