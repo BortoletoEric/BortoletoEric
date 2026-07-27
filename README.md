@@ -4,7 +4,7 @@
 
 ### Android Developer | Software Engineering Student
 
-Sou um Engenheiro de Sofyware brasileiro. <br>
+Sou um Engenheiro de Software brasileiro. <br>
 I'm a Software Engineering student from Brazil.
 
 Eu tenho experiencia profissional desenvolvendo aplicações para Android nativo **Java** and **Kotlin**, prestando suporte técnico a outros desenvolvedores, integrando soluções de pagamento Smart POS/TEF e dando manutenção a bibliotecas Android. <br>
